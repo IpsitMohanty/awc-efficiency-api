@@ -24,3 +24,5 @@ Raw/
 
 # Secrets
 .env
+
+notebooks/outputs/
