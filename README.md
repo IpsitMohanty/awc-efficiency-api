@@ -8,4 +8,4 @@ plus a Streamlit dashboard that consumes the API.
 - `app/` — FastAPI app (DuckDB query layer + endpoints)
 - `awc_dashboard/` — Streamlit dashboard UI
 - `notebooks/` — analysis notebooks + derived outputs (non-sensitive)
-- `Raw/` — local-only raw CSV
+- `Raw/` — local-only raw CSV (gitignored)
