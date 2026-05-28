@@ -115,16 +115,6 @@ Typical local URLs:
 - Derived or non-sensitive analysis outputs may live in `notebooks/`
 - If schemas change across reporting periods, the query and dashboard logic may need small updates
 
-## Suggested Improvements
+## Project Scope
 
-- Add endpoint documentation with example responses
-- Add dashboard screenshots to the README
-- Document the expected DuckDB table/view schema
-- Add a sample local setup flow with example data paths
-- Add a short section on key filters and dashboard views
-
-## Current Scope
-
-This repository is intended as a lightweight local analytics system for operational data exploration and API-backed dashboarding.
-
-It is not yet positioned as a hardened production service with authentication, multi-user concurrency controls, or cloud deployment automation.
+This repository is focused on lightweight local analytics, API access, and dashboard-based operational exploration.
